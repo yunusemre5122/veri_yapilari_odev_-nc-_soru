@@ -1,0 +1,3 @@
+C:/Users/emreg/OneDrive/Masaüstü/veri_yapilari_odev_ucuncu_soru/cmake-build-debug/CMakeFiles/veri_yapilari_odev_ucuncu_soru.dir
+C:/Users/emreg/OneDrive/Masaüstü/veri_yapilari_odev_ucuncu_soru/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/emreg/OneDrive/Masaüstü/veri_yapilari_odev_ucuncu_soru/cmake-build-debug/CMakeFiles/rebuild_cache.dir
